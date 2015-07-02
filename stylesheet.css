@@ -1,0 +1,112 @@
+h*{
+	border:1px solid orange;
+	}
+
+#topmenudiv{
+	/*border:1px solid green;*/
+	top:0;
+	height:30px;
+	width:100%;
+	-moz-appearance;
+	}
+
+#topmenuitems{
+	float:right;
+	margin-top:-5px;
+	}	
+
+.topmenuicon{
+	height:25px;
+	width:25x;
+	margin-left:10px;
+	margin-bottom:-6px;
+	-moz-appearance;
+	}
+
+a{
+	color:#505050;
+	text-decoration:none;
+	-moz-appearance;
+	}
+a:hover{
+	text-decoration:underline;
+	-moz-appearance;
+	}
+p{
+	color:#505050;
+	font-family:Arial;
+	font-size:12px;
+	display:inline-block;
+	margin-left:10px;
+	-moz-appearance;
+	}
+
+
+
+#googelogodiv{
+	border: 1px solid green;
+	width:100%;
+	position:relative;
+	display:block;
+	}
+
+#googlelogodiv img {
+	width:269px;
+	height:95px;
+	margin:auto;
+	display:block;
+	position:relative;
+	margin-top:16%;
+	-moz-appearance;
+	}
+
+input[name=searchinput]{
+	border: 1px solid blue;
+	width:500px;
+	height:25px;
+	margin:auto;
+	display:block;
+	margin-top:35px;
+	-moz-appearance;
+	}
+
+input[value="Google Search"]{
+	border: 1px solid gray;
+	margin:auto;
+	display:inline;
+	margin-top:15px;
+	margin-left:38%;
+	height:30px;
+	-moz-appearance;
+	}
+input[value="I'm Feeling Lucky"]{
+	border: 1px solid gray;
+	display:inline;
+	margin-left:20px;
+	height:30px;
+	-moz-appearance;
+	}
+
+#bottommenudiv {
+	/*border: 1px solid blue;*/
+	background-color:#f2f2f2;
+	position:absolute;
+	bottom:0;
+	height:40px;
+	width:100%;
+	margin-left:-10px;
+	-moz-appearance;
+	}
+.bottommenulinkleft{
+	margin-left:20px;
+	}
+.bottommenulinkright{
+	margin-right:20px;
+	}
+#bottommenuleftitems{
+	float:left;
+	}
+#bottommenurightitems{
+	float:right;
+	}	
+
